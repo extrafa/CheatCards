@@ -2,8 +2,8 @@
 
 > Minimal Apple Watch app for quick cheat sheets and fast note access on your wrist.
 
-![Swift](https://img.shields.io/badge/Swift-5-orange)
-![Platform](https://img.shields.io/badge/Platform-watchOS-black)
+![Swift](https://img.shields.io/badge/Swift-5-green)
+![Platform](https://img.shields.io/badge/Platform-watchOS-green)
 ![UI](https://img.shields.io/badge/UI-SwiftUI-blue)
 
 ## 📸 Preview
